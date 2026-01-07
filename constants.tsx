@@ -20,7 +20,7 @@ const MANUAL_VIDEOS: VideoData[] = [
   {
     id: 'v1',
     date: createDate(7),
-    dayOfWeek: 'TERÇA',
+    dayOfWeek: 'QUARTA',
     displayDate: '07 JAN',
     theme: 'PERNAS',
     title: '8 EXERCÍCIOS SIMPLES Para Pernas GROSSAS e DEFINIDAS em 4 Semanas!',
@@ -38,7 +38,7 @@ const MANUAL_VIDEOS: VideoData[] = [
   {
     id: 'v2',
     date: createDate(8),
-    dayOfWeek: 'QUARTA',
+    dayOfWeek: 'QUINTA',
     displayDate: '08 JAN',
     theme: 'GLUTEOS',
     title: 'FAÇA ISSO POR 7 DIAS: 8 Exercícios Para GLÚTEOS GRANDES 🍑 (8 Minutos)',
@@ -55,7 +55,7 @@ const MANUAL_VIDEOS: VideoData[] = [
   {
     id: 'v3',
     date: createDate(9),
-    dayOfWeek: 'QUINTA',
+    dayOfWeek: 'SEXTA',
     displayDate: '09 JAN',
     theme: 'ABDOMINAIS',
     title: '15 ABDOMINAIS EM PÉ Para Perder Barriga em 7 Dias | Treino Matinal 20 Min',
@@ -72,7 +72,7 @@ const MANUAL_VIDEOS: VideoData[] = [
   {
     id: 'v4',
     date: createDate(10),
-    dayOfWeek: 'SEXTA',
+    dayOfWeek: 'SÁBADO',
     displayDate: '10 JAN',
     theme: 'HIIT',
     title: 'Como Perder Barriga e Ganhar Pernas + Glúteos em 7 Dias: Treino de 10 Min 🔥',
@@ -90,7 +90,7 @@ const MANUAL_VIDEOS: VideoData[] = [
   {
     id: 'v5',
     date: createDate(13),
-    dayOfWeek: 'SEGUNDA',
+    dayOfWeek: 'TERÇA',
     displayDate: '13 JAN',
     theme: 'ABDOMINAIS',
     title: 'FAÇA ISSO TODA MANHÃ Para Perder Barriga 3X Mais Rápido! 🔥 [15 Min]',
@@ -107,7 +107,7 @@ const MANUAL_VIDEOS: VideoData[] = [
   {
     id: 'v6',
     date: createDate(14),
-    dayOfWeek: 'TERÇA',
+    dayOfWeek: 'QUARTA',
     displayDate: '14 JAN',
     theme: 'GLUTEOS',
     title: '10 Exercícios Para Glúteos Redondos e Firmes em Apenas 10 Minutos! 🍑',
@@ -124,7 +124,7 @@ const MANUAL_VIDEOS: VideoData[] = [
   {
     id: 'v7',
     date: createDate(15),
-    dayOfWeek: 'QUARTA',
+    dayOfWeek: 'QUINTA',
     displayDate: '15 JAN',
     theme: 'PERNAS',
     title: '7 Exercícios Que Vão Esculpir Suas Pernas e Glúteos em 4 Semanas! (10 Min)',
@@ -140,7 +140,7 @@ const MANUAL_VIDEOS: VideoData[] = [
   {
     id: 'v8',
     date: createDate(16),
-    dayOfWeek: 'QUINTA',
+    dayOfWeek: 'SEXTA',
     displayDate: '16 JAN',
     theme: 'GLUTEOS',
     title: 'FAÇA ISSO POR 10 DIAS: 5 Exercícios Para GLÚTEOS PERFEITOS 🍑 (8 Min Diários)',
@@ -157,7 +157,7 @@ const MANUAL_VIDEOS: VideoData[] = [
   {
     id: 'v9',
     date: createDate(17),
-    dayOfWeek: 'SEXTA',
+    dayOfWeek: 'SÁBADO',
     displayDate: '17 JAN',
     theme: 'HIIT',
     title: '30 MIN Para Perder Barriga e Afinar Cintura em 7 Dias 🔥 [HIIT Completo]',
@@ -175,7 +175,7 @@ const MANUAL_VIDEOS: VideoData[] = [
   {
     id: 'v10',
     date: createDate(20),
-    dayOfWeek: 'SEGUNDA',
+    dayOfWeek: 'TERÇA',
     displayDate: '20 JAN',
     theme: 'GLUTEOS',
     title: 'Bumbum dos SONHOS 🍑: Treino Secreto de 10 Minutos (TESTADO E APROVADO!)',
@@ -191,7 +191,7 @@ const MANUAL_VIDEOS: VideoData[] = [
   {
     id: 'v11',
     date: createDate(21),
-    dayOfWeek: 'TERÇA',
+    dayOfWeek: 'QUARTA',
     displayDate: '21 JAN',
     theme: 'ABDOMINAIS',
     title: '6 Exercícios FÁCEIS Para Afinar Cintura e Aumentar Quadril em 3 Semanas! (8 Min)',
@@ -207,7 +207,7 @@ const MANUAL_VIDEOS: VideoData[] = [
   {
     id: 'v12',
     date: createDate(22),
-    dayOfWeek: 'QUARTA',
+    dayOfWeek: 'QUINTA',
     displayDate: '22 JAN',
     theme: 'ABDOMINAIS',
     title: '20 Abdominais Em Pé Para Perder Barriga em 7 Dias! [Treino Matinal 25 Min]',
@@ -223,7 +223,7 @@ const MANUAL_VIDEOS: VideoData[] = [
   {
     id: 'v13',
     date: createDate(23),
-    dayOfWeek: 'QUINTA',
+    dayOfWeek: 'SEXTA',
     displayDate: '23 JAN',
     theme: 'PERNAS',
     title: '8 Exercícios Simples Para Perder Gordura da Coxa em 4 Semanas (10 Min)',
@@ -239,7 +239,7 @@ const MANUAL_VIDEOS: VideoData[] = [
   {
     id: 'v14',
     date: createDate(24),
-    dayOfWeek: 'SEXTA',
+    dayOfWeek: 'SÁBADO',
     displayDate: '24 JAN',
     theme: 'GLUTEOS',
     title: '9 MINUTOS | 9 Exercícios Para GLÚTEOS GRANDES + Pernas Firmes! 🍑 (RÁPIDO!)',
@@ -257,7 +257,7 @@ const MANUAL_VIDEOS: VideoData[] = [
   {
     id: 'v15',
     date: createDate(27),
-    dayOfWeek: 'SEGUNDA',
+    dayOfWeek: 'TERÇA',
     displayDate: '27 JAN',
     theme: 'GLUTEOS',
     title: 'Os 5 Melhores Exercícios Para Glúteos Perfeitos (em 2026!) 🍑 Experimente AGORA',
@@ -273,7 +273,7 @@ const MANUAL_VIDEOS: VideoData[] = [
   {
     id: 'v16',
     date: createDate(28),
-    dayOfWeek: 'TERÇA',
+    dayOfWeek: 'QUARTA',
     displayDate: '28 JAN',
     theme: 'HIIT',
     title: '🔥 12 Min Para Perder Barriga + Aumentar Glúteos e Pernas! [TREINO COMPLETO]',
@@ -289,7 +289,7 @@ const MANUAL_VIDEOS: VideoData[] = [
   {
     id: 'v17',
     date: createDate(29),
-    dayOfWeek: 'QUARTA',
+    dayOfWeek: 'QUINTA',
     displayDate: '29 JAN',
     theme: 'GLUTEOS',
     title: 'DESAFIO 14 DIAS Para GLÚTEOS DE AÇO 🍑: Dia 1 | 10 Min Por Dia!',
@@ -305,7 +305,7 @@ const MANUAL_VIDEOS: VideoData[] = [
   {
     id: 'v18',
     date: createDate(30),
-    dayOfWeek: 'QUINTA',
+    dayOfWeek: 'SEXTA',
     displayDate: '30 JAN',
     theme: 'PERNAS',
     title: '8 EXERCÍCIOS BRUTAIS Para Ter Pernas GROSSAS em 21 Dias! (12 Min)',
@@ -321,7 +321,7 @@ const MANUAL_VIDEOS: VideoData[] = [
   {
     id: 'v19',
     date: createDate(31),
-    dayOfWeek: 'SEXTA',
+    dayOfWeek: 'SÁBADO',
     displayDate: '31 JAN',
     theme: 'GLUTEOS',
     title: 'FAÇA ISSO POR 10 DIAS: 4 Exercícios Para TURBINAR Seus GLÚTEOS! 🍑 (Sem Impacto)',
